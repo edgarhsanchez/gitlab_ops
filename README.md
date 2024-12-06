@@ -1,6 +1,4 @@
-Based on the information available, the gitlab_ops repository is designed for testing GitLab GraphQL APIs. Below is a README that outlines the project’s purpose, setup instructions, and usage guidelines.
-
-gitlab_ops
+# gitlab_ops
 
 gitlab_ops is a tool for testing and interacting with GitLab’s GraphQL APIs. It provides a command-line interface (CLI) to fetch and display project information from a specified GitLab instance.
 
