@@ -1,0 +1,5 @@
+/target
+.env
+schema.graphql
+gen_graph_rust.sh
+gen_schema.sh
